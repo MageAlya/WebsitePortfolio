@@ -1,5 +1,6 @@
 body {
-    background: black;
+    background: lightpink;
+    font-family: 'Trebuchet MS', sans-serif;
 }
 
 p {
@@ -11,9 +12,9 @@ h1 {
 }
 
 
-.montserrat {
+/*.montserrat {
     font-family: 'Montserrat', sans-serif;
-}
+}*/
 
 .center {
     text-align: center;
